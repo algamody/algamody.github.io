@@ -1,0 +1,24 @@
+
+.main-container{
+    border: 4px black solid;
+    border-radius: 20px;    
+}
+#Al-Ittihad{
+    color: #D72323;
+    font-weight: bold;
+}
+li ,#lgt{
+    font-weight: bold;
+}
+.main-container{
+    background-color: #EEEEEE;
+}
+.card-cover{
+    background-size: cover; background-position: center; background-repeat: no-repeat;
+}
+.main{
+    background-color: #D72323;
+}
+small{
+    color: white;
+}
